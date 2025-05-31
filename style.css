@@ -1,0 +1,44 @@
+/*normal settings*/
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    border:2px solid black;
+}
+body{
+    height:100vh;
+    background-color:gray;
+}
+#card{
+    max-width:30vw;
+    margin:20vh auto;
+    background-color:pink;
+    padding:30px 20px;
+    border-radius: 20px;
+    text-align:center;
+    box-shadow:10px 20px black;
+}
+p{
+    text-align:center;
+}
+h2,h3,p,button
+{
+    margin:10px 0px;
+}
+button{
+    padding:10px 20px;
+    border-radius:20px 20px 20px 20px;
+}
+.fa-brands{
+    margin:10px 10px;
+}
+a{
+    /*text-decoration: 2px solid blue underline;*/
+    text-decoration: none;
+    color:black;
+}
